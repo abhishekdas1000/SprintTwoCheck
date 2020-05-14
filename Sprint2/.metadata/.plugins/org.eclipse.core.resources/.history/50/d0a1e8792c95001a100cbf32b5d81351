@@ -1,0 +1,5 @@
+package com.cg.iter.entity;
+
+public class Appointment {
+
+}
